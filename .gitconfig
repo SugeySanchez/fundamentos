@@ -1,3 +1,4 @@
 [user]
-	email = " jefferson.orejuela.sannicolas@utelvt.edu.ec\ngit config --global user.name jefferson\ngit commit -m hola\ngit push https:Orejuela20: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@github.com/Orejuela20/fundamentos.git\n\ngit config --global user.email "
-	name = jefferson
+	email = diana.garcia.sanchez@utelvt.edu.ec
+	name = diana
+	password = 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
