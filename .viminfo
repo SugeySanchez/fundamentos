@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1664161439,,"wq"
+|2,0,1664161861,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,20 +27,37 @@
 # global variables:
 
 # File marks:
-'0  1  3  ~/saludo.cpp
-|4,48,1,3,1664161439,"~/saludo.cpp"
-'1  1  4  ~/suma.cpp
-|4,49,1,4,1664161412,"~/suma.cpp"
+'0  1  3  ~/celular.cpp
+|4,48,1,3,1664161861,"~/celular.cpp"
+'1  1  3  ~/saludo.cpp
+|4,49,1,3,1664161439,"~/saludo.cpp"
+'2  1  4  ~/suma.cpp
+|4,50,1,4,1664161412,"~/suma.cpp"
 
 # Jumplist (newest first):
+-'  1  3  ~/celular.cpp
+|4,39,1,3,1664161861,"~/celular.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
 -'  1  3  ~/saludo.cpp
 |4,39,1,3,1664161439,"~/saludo.cpp"
 -'  1  4  ~/suma.cpp
 |4,39,1,4,1664161412,"~/suma.cpp"
 -'  1  4  ~/suma.cpp
 |4,39,1,4,1664161412,"~/suma.cpp"
+-'  1  4  ~/suma.cpp
+|4,39,1,4,1664161412,"~/suma.cpp"
+-'  1  4  ~/suma.cpp
+|4,39,1,4,1664161412,"~/suma.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/celular.cpp
+	*	1664161858	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
 > ~/saludo.cpp
 	*	1664161435	0
