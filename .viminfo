@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1664212479,,"q!"
+|2,0,1664243550,,"q!"
 :wq
 |2,0,1664211905,,"wq"
 
@@ -29,18 +29,26 @@
 # global variables:
 
 # File marks:
-'0  1  0  ~/.gitconfig
-|4,48,1,0,1664212479,"~/.gitconfig"
-'1  1  3  ~/suma.cpp
-|4,49,1,3,1664211905,"~/suma.cpp"
-'2  1  3  ~/celular.cpp
-|4,50,1,3,1664161861,"~/celular.cpp"
-'3  1  3  ~/saludo.cpp
-|4,51,1,3,1664161439,"~/saludo.cpp"
-'4  1  4  ~/suma.cpp
-|4,52,1,4,1664161412,"~/suma.cpp"
+'0  1  3  ~/suma.cpp
+|4,48,1,3,1664243550,"~/suma.cpp"
+'1  1  0  ~/.gitconfig
+|4,49,1,0,1664212479,"~/.gitconfig"
+'2  1  3  ~/suma.cpp
+|4,50,1,3,1664211905,"~/suma.cpp"
+'3  1  3  ~/celular.cpp
+|4,51,1,3,1664161861,"~/celular.cpp"
+'4  1  3  ~/saludo.cpp
+|4,52,1,3,1664161439,"~/saludo.cpp"
+'5  1  4  ~/suma.cpp
+|4,53,1,4,1664161412,"~/suma.cpp"
+'6  1  4  ~/suma.cpp
+|4,54,1,4,1664161412,"~/suma.cpp"
 
 # Jumplist (newest first):
+-'  1  3  ~/suma.cpp
+|4,39,1,3,1664243550,"~/suma.cpp"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1664212479,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1664212479,"~/.gitconfig"
 -'  1  3  ~/suma.cpp
@@ -55,6 +63,30 @@
 |4,39,1,3,1664161861,"~/celular.cpp"
 -'  1  3  ~/celular.cpp
 |4,39,1,3,1664161861,"~/celular.cpp"
+-'  1  3  ~/celular.cpp
+|4,39,1,3,1664161861,"~/celular.cpp"
+-'  1  3  ~/celular.cpp
+|4,39,1,3,1664161861,"~/celular.cpp"
+-'  1  3  ~/celular.cpp
+|4,39,1,3,1664161861,"~/celular.cpp"
+-'  1  3  ~/celular.cpp
+|4,39,1,3,1664161861,"~/celular.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
+-'  1  3  ~/saludo.cpp
+|4,39,1,3,1664161439,"~/saludo.cpp"
 -'  1  3  ~/saludo.cpp
 |4,39,1,3,1664161439,"~/saludo.cpp"
 -'  1  3  ~/saludo.cpp
@@ -90,16 +122,16 @@
 
 # History of marks within files (newest to oldest):
 
-> ~/.gitconfig
-	*	1664212474	0
-	"	1	0
-
 > ~/suma.cpp
-	*	1664211900	0
+	*	1664243543	0
 	"	1	3
 	^	1	4
 	.	1	3
 	+	1	3
+
+> ~/.gitconfig
+	*	1664212474	0
+	"	1	0
 
 > ~/celular.cpp
 	*	1664161858	0

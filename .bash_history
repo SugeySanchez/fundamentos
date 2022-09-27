@@ -45,3 +45,31 @@ tree
 ls -l
 ls -a
 exit
+tree
+vim suma.cpp
+git status
+git add .
+git commit -m "suma"
+git push -u origen principal
+git push -u origin principal
+cd
+clear
+git init
+git config --global user.name "diana"
+git config --global user.email "diana.garcia.sanchez@utelvt.edu.ec"
+git config --global -e
+git config --global user.password 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
+git config --global user.password "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"
+git remote aad origin https://github.com/SugeySanchez/sugey.git
+git remote add origin https://github.com/SugeySanchez/sugey.git
+git add .
+git commit -m "cuenta"
+git push origin master
+git push -u origin master
+git push -u origin p
+git push -u origin master
+exit
+tree
+mv suma.cpp resta
+tree
+exit
